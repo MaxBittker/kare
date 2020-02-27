@@ -17,6 +17,7 @@ using only a bitmap editor, design a font, icons 9-patch, palettes, and a deskto
   palettes
  
  
+ 
  Applications:
   bitmap editor
   pallete editor
@@ -27,6 +28,10 @@ using only a bitmap editor, design a font, icons 9-patch, palettes, and a deskto
   chat app
   mine sweeper/sudoko? 
   
+  
+  https://github.com/MaxBittker/border
+  https://face.constraint.systems
+  https://www.windows93.net
   
   
 
